@@ -1,5 +1,5 @@
 # GRIP-Task-1
 
-Problem Statement
+Problem Statement:
 
-Solution
+Solution: 
